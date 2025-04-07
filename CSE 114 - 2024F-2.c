@@ -1,7 +1,7 @@
               CSE 114 - 2024F
               
 // 30.09 Monday
-
+//Mustafa hocanın ders notları
 #include <stdio.h>
 #define yazdir printf
 #define my_age 20
